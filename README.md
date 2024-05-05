@@ -40,8 +40,4 @@ To compile the TypeScript code, run `npm run compile`.
 
 To run the tests, run `npm test`.
 
-## License
-
-[MIT](LICENSE)
-
-Created by Sojourner Development (sojourner.dev)
+**Created by Sojourner Development** (sojourner.dev)
