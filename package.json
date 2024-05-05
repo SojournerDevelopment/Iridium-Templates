@@ -3,6 +3,7 @@
   "displayName": "Iridium Templates",
   "description": "A simple templating engine for static html websites.",
   "version": "0.1.0",
+  "publisher": "sojournerdev",
   "engines": {
     "vscode": "^1.89.0"
   },
